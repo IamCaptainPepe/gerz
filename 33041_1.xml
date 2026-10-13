@@ -2,7 +2,7 @@
 <GETWEATHER>
 <MM>10</MM><DD>13</DD><YY>2026</YY>
 <City code="33041" locale="ru" latitude="52.43" longitude="30.99" title="Гомель" country="Беларусь" region="Гомельская обл.">
-<LocalTime timezone="3"><Year>2026</Year><Month>10</Month><Day>13</Day><Hour>11</Hour><Minute>43</Minute></LocalTime>
+<LocalTime timezone="3"><Year>2026</Year><Month>10</Month><Day>13</Day><Hour>11</Hour><Minute>44</Minute></LocalTime>
 <TODAY>
 <PHENOMENONS d="13.10.2026">
 <PHENOMEN d="13.10.2026" t="4" s="0">
@@ -30,7 +30,7 @@
 <P>766</P><Pmin>766</Pmin><Pmax>766</Pmax>
 <W>2</W><Wmin>1</Wmin><Wmax>2</Wmax>
 <WMP>5</WMP>
-<S>93</S>
+<S>92</S>
 <Pp>10</Pp>
 <DD>С-З</DD>
 <Day>13</Day><Month>10</Month><Year>2026</Year><Hour>9</Hour><Minute>0</Minute>
@@ -54,7 +54,7 @@
 <P>767</P><Pmin>767</Pmin><Pmax>767</Pmax>
 <W>0</W><Wmin>0</Wmin><Wmax>1</Wmax>
 <WMP>2</WMP>
-<S>49</S>
+<S>46</S>
 <Pp>10</Pp>
 <DD>С</DD>
 <Day>14</Day><Month>10</Month><Year>2026</Year><Hour>21</Hour><Minute>0</Minute>
@@ -64,7 +64,7 @@
 <P>768</P><Pmin>767</Pmin><Pmax>768</Pmax>
 <W>2</W><Wmin>2</Wmin><Wmax>2</Wmax>
 <WMP>7</WMP>
-<S>24</S>
+<S>25</S>
 <Pp>10</Pp>
 <DD>С-З</DD>
 <Day>14</Day><Month>10</Month><Year>2026</Year><Hour>15</Hour><Minute>0</Minute>
@@ -74,7 +74,7 @@
 <P>768</P><Pmin>768</Pmin><Pmax>768</Pmax>
 <W>2</W><Wmin>1</Wmin><Wmax>2</Wmax>
 <WMP>5</WMP>
-<S>1</S>
+<S>0</S>
 <Pp>10</Pp>
 <DD>С-З</DD>
 <Day>14</Day><Month>10</Month><Year>2026</Year><Hour>9</Hour><Minute>0</Minute>
@@ -84,7 +84,7 @@
 <P>768</P><Pmin>768</Pmin><Pmax>768</Pmax>
 <W>1</W><Wmin>1</Wmin><Wmax>1</Wmax>
 <WMP>4</WMP>
-<S>48</S>
+<S>44</S>
 <Pp>10</Pp>
 <DD>С-З</DD>
 <Day>14</Day><Month>10</Month><Year>2026</Year><Hour>3</Hour><Minute>0</Minute>
